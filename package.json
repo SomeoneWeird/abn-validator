@@ -1,0 +1,26 @@
+		{
+  "name": "abn-validator",
+  "version": "1.0.0",
+  "description": "Validates Australian Business Numbers",
+  "main": "lib/abn-validator.js",
+  "bin": {
+    "abn-validator": "abn-validator.js"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SomeoneWeird/abn-validator.git"
+  },
+  "keywords": [
+    "abn",
+    "validator"
+  ],
+  "author": "Adam Brady <adam@boxxen.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SomeoneWeird/abn-validator/issues"
+  },
+  "homepage": "https://github.com/SomeoneWeird/abn-validator"
+}
