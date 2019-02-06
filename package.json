@@ -4,7 +4,7 @@
   "description": "Validates Australian Business Numbers",
   "main": "lib/abn-validator.js",
   "bin": {
-    "abn-validator": "abn-validator.js"
+    "abn-validator": "bin/abn-validator.js"
   },
   "scripts": {
     "test": "mocha -R spec"
